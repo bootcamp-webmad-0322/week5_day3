@@ -1,0 +1,24 @@
+.navbar {
+  margin-bottom: 50px;
+}
+
+.character {
+  margin: 10px 0;
+  border: 1px solid;
+  padding: 20px;
+}
+
+.character p {
+  margin-bottom: 5px;
+}
+
+
+.character h2 {
+  height: 75px;
+}
+
+form label,
+form input {
+  width: 100%;
+  margin-bottom: 10px;
+}
